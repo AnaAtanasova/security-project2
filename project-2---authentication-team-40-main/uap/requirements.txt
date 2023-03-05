@@ -1,0 +1,8 @@
+flask
+flask-cors
+requests
+cryptography
+binascii
+Fernet
+tinydb
+tinydb-encrypted-jsonstorage
